@@ -1,0 +1,9 @@
+#identity-box.extensionPage
+    #identity-icon[tooltiptext="Loaded by extension: Tabliss"]
+    ~ #identity-icon-label {
+	display: none !important;
+}
+
+#identity-icon-box {
+    background: none !important;
+}
