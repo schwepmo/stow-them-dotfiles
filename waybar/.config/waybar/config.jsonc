@@ -31,7 +31,7 @@
       "9": "9",
       "10": "0",
       "communication": "",
-      // "vpn": "󰯊",
+      "vpn": "󰯊",
       "active": "󱓻"
     },
     "persistent-workspaces": {
@@ -41,7 +41,7 @@
       "4": [],
       "5": [],
       "special:communication": [],
-      // "special:vpn": [],
+      "special:vpn": [],
     }
   },
   "hyprland/language": {
