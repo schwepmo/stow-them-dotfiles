@@ -31,7 +31,7 @@
       "9": "9",
       "10": "0",
       "communication": "",
-      "vpn": "󰯊",
+      // "vpn": "󰯊",
       "active": "󱓻"
     },
     "persistent-workspaces": {
@@ -41,7 +41,7 @@
       "4": [],
       "5": [],
       "special:communication": [],
-      "special:vpn": [],
+      // "special:vpn": [],
     }
   },
   "hyprland/language": {
@@ -64,12 +64,6 @@
     "signal": 7,
     "interval": 3600
   },
-  // "custom/onedrive": {
-  //     "exec": "onedrive --display-sync-status --confdir=$HOME/.config/onedrive",
-  //     "return-type": "json",
-  //     "format": "{}",
-  //     "max-length": 50
-  // },
   "cpu": {
     "interval": 5,
     "format": "󰍛",
