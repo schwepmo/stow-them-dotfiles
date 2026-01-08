@@ -1,3 +1,4 @@
 lazy-lock.json
 # will be a simlink handled by nvim-themes
 theme.lua
+shaders/
