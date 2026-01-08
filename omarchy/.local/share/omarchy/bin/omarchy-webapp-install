@@ -6,7 +6,7 @@ if [ "$#" -lt 3 ]; then
   APP_URL=$(gum input --prompt "URL> " --placeholder "https://example.com")
   ICON_REF=$(gum input --prompt "Icon URL> " --placeholder "See https://dashboardicons.com (must use PNG!)")
   # This is used so firefox webapps are installed per default
-  CUSTOM_EXEC="omarchy-launch-firefox-webapp $APP_URL"
+  # CUSTOM_EXEC="omarchy-launch-firefox-webapp $APP_URL"
   MIME_TYPES=""
   INTERACTIVE_MODE=true
 else
