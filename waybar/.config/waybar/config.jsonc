@@ -32,7 +32,7 @@
       "10": "0",
       "communication": "󰶌",
       "music": "",
-      // "vpn": "󰯊",
+      "vpn": "󰯊",
       "active": "󱓻"
     },
     "persistent-workspaces": {
@@ -44,7 +44,7 @@
       "6": [],
       "special:communication": [],
       "special:music": [],
-      // "special:vpn": [],
+      "special:vpn": [],
     }
   },
   "hyprland/language": {
