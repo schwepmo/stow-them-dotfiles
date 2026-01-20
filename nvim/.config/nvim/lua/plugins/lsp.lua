@@ -316,7 +316,7 @@ return {
 
         -- gopls = {},
 
-        -- pyright = {},
+        pyright = {},
 
         codelldb = {},
 
