@@ -19,6 +19,8 @@ return {
       { '<leader>h', group = 'Git [H]unk', icon = { icon = ' ', color = 'blue' }, mode = { 'n', 'v' } },
       { '<leader>H', group = '[H]arpoon', icon = { icon = '󰛢 ', color = 'blue' } },
       { '<leader>c', group = '[C]argo', icon = { icon = ' ', color = 'blue' } },
+      { '<leader>o', group = '[O]pencode', icon = { icon = ' ', color = 'green' } },
+      { '<leader>v', icon = { icon = '', color = 'blue' } },
       { '<leader>u', icon = { icon = '󰕍 ', color = 'green' } },
       { '<leader>f', icon = { icon = '󰛖 ', color = 'blue' } },
     },

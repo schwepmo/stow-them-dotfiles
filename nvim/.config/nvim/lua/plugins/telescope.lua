@@ -102,6 +102,5 @@ return {
         -- builtin.find_files { cwd = vim.fn.stdpath 'config_dirs' }
       end, { desc = '[S]earch [N]eovim files' })
     end,
-  }
-
+  },
 }
