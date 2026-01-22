@@ -4,7 +4,7 @@
 HOME_RIGHT="LG Electronics LG ULTRAGEAR 304MARZDBV22"
 HOME_LEFT="Acer Technologies CB271HU T85EE0018511"
 PRAXIS_RIGHT="Lenovo Group Limited T27i-30 V5WWR975"
-PRAXIS_LEFT="BOE 0x095"
+PRAXIS_LEFT="BOE 0x095F"
 
 # Function to apply rules
 apply_rules() {
